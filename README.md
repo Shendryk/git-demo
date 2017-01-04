@@ -2,7 +2,7 @@
 - Основы JS;
 -	Средний уровень HTML;
 -	Средний уровень CSS;
-- Photoshop, CorelDRAW
+- Photoshop, CorelDRAW;
 -	Bootstrap.
 
 ##Желаемые навыки
